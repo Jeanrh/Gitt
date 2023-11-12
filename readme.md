@@ -6,3 +6,4 @@
 
 * uso do comando git resotre
 * comando git push
+* * comando git pull
